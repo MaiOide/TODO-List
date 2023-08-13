@@ -1,0 +1,39 @@
+.wrapper {
+  display: flex;
+}
+p{
+  background-color:rgb(240, 213, 218);   
+  width: 500px;
+  border-radius: 4px;
+  margin:auto
+  }  
+.remove{
+  position: relative; 
+  left: 410px; 
+}
+.header{
+  text-align: center;
+}
+.main{
+  text-align: center;
+}
+.update-time {
+  text-align: left;
+}
+input{
+  text-align: center;
+}
+.container {
+  width: 800px;
+  padding: 0 15px;
+  margin: 0 auto;
+}
+.top-wrapper {
+  padding: 20px 0 100px 0;
+  background-size: cover;
+  text-align: center;
+}
+.id_textBox1{
+  text-align: left;  
+}
+
